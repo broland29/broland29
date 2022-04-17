@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome, fellow Wanderer.
 
-<!--
-**broland29/broland29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Bálint Roland, a.k.a broland29
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently I am studying Computer Science at the Technical University of Cluj-Napoca
+- 🌱 I have basic experience in programming and hardware description languages, such as
+  - C
+  - C++
+  - Java
+  - VHDL
+- 👯 I also know a very few things about
+  - Assembly
+  - Linux
+  - SQL
+- 🤔 I am open-minded, always ready to learn new things
+- 💬 My hobbies include:
+  - Travelling
+  - Music
+  - Chess
+  - Hungarian Folk Dance
+- 📫 You can see me on other platforms as well:
+  - LinkedIn
+  - Facebook
