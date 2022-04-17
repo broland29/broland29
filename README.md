@@ -1,7 +1,9 @@
 # Welcome, fellow Wanderer.
 
 ### Who am I?
-My name is Bálint Roland. I'm a Computer Science student at the Technical University of Cluj-Napoca. I'm 20 years old and I come from the city of Dej.
+My name is Bálint Roland.
+I'm a Computer Science student at the Technical University of Cluj-Napoca.
+I'm 20 years old and I come from the city of Dej.
 
 ### Do i code?
 I have basic experience in:
