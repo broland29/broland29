@@ -5,15 +5,15 @@ My name is Bálint Roland. I'm a Computer Science student at the Technical Unive
 
 ### Do i code?
 I have basic experience in:
--🌀 C
--🌀 C++
--🌀 Java
--🌀 VHDL
+- 🌀 C
+- 🌀 C++
+- 🌀 Java
+- 🌀 VHDL
 
 I also know a very few things about
--🌀 Assembly
--🌀 Linux
--🌀 SQL
+- 🌀 Assembly
+- 🌀 Linux
+- 🌀 SQL
 
 ### What else?
 I am open-minded, always ready to learn new things
