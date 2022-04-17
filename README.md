@@ -1,21 +1,19 @@
 # Welcome, fellow Wanderer.
 
-## My name is Bálint Roland, a.k.a broland29
-
 ### Who am I?
-I'm a Computer Science student at the Technical University of Cluj-Napoca.
-I'm 20 years old and I come from the city of Dej.
+My name is Bálint Roland. I'm a Computer Science student at the Technical University of Cluj-Napoca. I'm 20 years old and I come from the city of Dej.
 
 ### Do i code?
 I have basic experience in:
-  - C
-  - C++
-  - Java
-  - VHDL
+-🌀 C
+-🌀 C++
+-🌀 Java
+-🌀 VHDL
+
 I also know a very few things about
-  - Assembly
-  - Linux
-  - SQL
+-🌀 Assembly
+-🌀 Linux
+-🌀 SQL
 
 ### What else?
 I am open-minded, always ready to learn new things
