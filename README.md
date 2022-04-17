@@ -16,12 +16,14 @@ I also know a very few things about
 - 🌀 SQL
 
 ### What else?
-I am open-minded, always ready to learn new things
+I am open-minded, always ready to learn new things.
+
 My hobbies include:
-  - Travelling
-  - Music
-  - Chess
-  - Hungarian Folk Dance
+- 🎫 Travelling
+- 🎵 Music
+- ♟️ Chess
+- 💃 Hungarian Folk Dance
+
 You can see me on other platforms as well:
-  - LinkedIn
-  - Facebook
+- 💼 [LinkedIn](https://www.linkedin.com/in/broland29/)
+- 👍 [Facebook](https://www.facebook.com/b4l1n7r0l1/)
