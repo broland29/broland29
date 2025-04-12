@@ -11,5 +11,5 @@
 - 🌀 Sometimes I do it for fun
 
 ### How to reach me?
-- 💼 [LinkedIn](https://www.linkedin.com/in/broland29/)
-- 📧 [E-mail](balintroli2001@gmail.com)
+- 💼 https://www.linkedin.com/in/broland29/
+- 📧 balintroli2001@gmail.com
